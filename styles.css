@@ -24,7 +24,7 @@ body {
     font-size: 16px;          /* Increase font size */
     margin: 4px 2px;          /* Add some margin */
     cursor: pointer;          /* Add a pointer cursor on hover */
-    border-radius: 12px;      /* Rounded corners */
+    border-radius: 5px;      /* Rounded corners */
     transition: background-color 0.3s, transform 0.3s; /* Smooth transitions */
 }
 
