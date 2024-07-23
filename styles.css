@@ -14,7 +14,7 @@ body {
 
 #webhookButton {
     background-color: #191919; /* notion-dark */
-    border: 2px solid #ffffff; /* Border */
+    border: 1px solid #ffffff; /* Border */
     color: white;             /* White text */
     padding: 15px 32px;       /* Add some padding */
     text-align: center;       /* Center the text */
