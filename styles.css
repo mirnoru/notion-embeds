@@ -7,9 +7,10 @@ body {
     font-family: 'IBM Plex Mono', monospace;
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     height: 100vh;
     background-color: #191919;
+    box-sizing: border-box;
 }
 
 #webhookButton {
