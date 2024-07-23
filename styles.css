@@ -4,7 +4,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: IBM Plex Mono, monospace;
+    font-family: 'IBM Plex Mono', monospace;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 
 #webhookButton {
     background-color: #191919; /* notion-dark */
-    border: none;             /* Remove borders */
+    border: 2px solid #ffffff; /* Border */
     color: white;             /* White text */
     padding: 15px 32px;       /* Add some padding */
     text-align: center;       /* Center the text */
@@ -29,6 +29,7 @@ body {
 
 #webhookButton:hover {
     background-color: #ffffff; /* White on hover */
+    color: #191919;
 }
 
 #webhookButton:active {
