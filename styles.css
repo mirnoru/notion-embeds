@@ -13,6 +13,7 @@ body {
 }
 
 #webhookButton {
+    font-family: 'IBM Plex Mono', monospace;
     background-color: #191919; /* notion-dark */
     border: 1px solid #ffffff; /* Border */
     color: white;             /* White text */
