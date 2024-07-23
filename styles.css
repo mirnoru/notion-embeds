@@ -10,6 +10,7 @@ body {
     align-items: center;
     background-color: #191919;
     box-sizing: border-box;
+    height: 100vh;
 }
 
 #webhookButton {
